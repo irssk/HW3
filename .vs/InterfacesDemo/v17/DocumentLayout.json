@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c# pro\\InterfacesDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{755898B0-FA48-411F-8056-21F9920C573E}|InterfacesDemo\\InterfacesDemo.csproj|c:\\c# pro\\interfacesdemo\\interfacesdemo\\isort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{755898B0-FA48-411F-8056-21F9920C573E}|InterfacesDemo\\InterfacesDemo.csproj|solutionrelative:interfacesdemo\\isort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{755898B0-FA48-411F-8056-21F9920C573E}|InterfacesDemo\\InterfacesDemo.csproj|c:\\c# pro\\interfacesdemo\\interfacesdemo\\ioutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{755898B0-FA48-411F-8056-21F9920C573E}|InterfacesDemo\\InterfacesDemo.csproj|solutionrelative:interfacesdemo\\ioutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{755898B0-FA48-411F-8056-21F9920C573E}|InterfacesDemo\\InterfacesDemo.csproj|c:\\c# pro\\interfacesdemo\\interfacesdemo\\imath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{755898B0-FA48-411F-8056-21F9920C573E}|InterfacesDemo\\InterfacesDemo.csproj|solutionrelative:interfacesdemo\\imath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{755898B0-FA48-411F-8056-21F9920C573E}|InterfacesDemo\\InterfacesDemo.csproj|c:\\c# pro\\interfacesdemo\\interfacesdemo\\myarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{755898B0-FA48-411F-8056-21F9920C573E}|InterfacesDemo\\InterfacesDemo.csproj|solutionrelative:interfacesdemo\\myarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{755898B0-FA48-411F-8056-21F9920C573E}|InterfacesDemo\\InterfacesDemo.csproj|c:\\c# pro\\interfacesdemo\\interfacesdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{755898B0-FA48-411F-8056-21F9920C573E}|InterfacesDemo\\InterfacesDemo.csproj|solutionrelative:interfacesdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 206,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c# pro\\InterfacesDemo\\InterfacesDemo\\Program.cs",
+              "RelativeDocumentMoniker": "InterfacesDemo\\Program.cs",
+              "ToolTip": "C:\\c# pro\\InterfacesDemo\\InterfacesDemo\\Program.cs",
+              "RelativeToolTip": "InterfacesDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T08:43:22.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ISort.cs",
+              "DocumentMoniker": "C:\\c# pro\\InterfacesDemo\\InterfacesDemo\\ISort.cs",
+              "RelativeDocumentMoniker": "InterfacesDemo\\ISort.cs",
+              "ToolTip": "C:\\c# pro\\InterfacesDemo\\InterfacesDemo\\ISort.cs",
+              "RelativeToolTip": "InterfacesDemo\\ISort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T08:42:45.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyArray.cs",
+              "DocumentMoniker": "C:\\c# pro\\InterfacesDemo\\InterfacesDemo\\MyArray.cs",
+              "RelativeDocumentMoniker": "InterfacesDemo\\MyArray.cs",
+              "ToolTip": "C:\\c# pro\\InterfacesDemo\\InterfacesDemo\\MyArray.cs",
+              "RelativeToolTip": "InterfacesDemo\\MyArray.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T08:43:02.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IMath.cs",
+              "DocumentMoniker": "C:\\c# pro\\InterfacesDemo\\InterfacesDemo\\IMath.cs",
+              "RelativeDocumentMoniker": "InterfacesDemo\\IMath.cs",
+              "ToolTip": "C:\\c# pro\\InterfacesDemo\\InterfacesDemo\\IMath.cs",
+              "RelativeToolTip": "InterfacesDemo\\IMath.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T08:42:07.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IOutput.cs",
+              "DocumentMoniker": "C:\\c# pro\\InterfacesDemo\\InterfacesDemo\\IOutput.cs",
+              "RelativeDocumentMoniker": "InterfacesDemo\\IOutput.cs",
+              "ToolTip": "C:\\c# pro\\InterfacesDemo\\InterfacesDemo\\IOutput.cs",
+              "RelativeToolTip": "InterfacesDemo\\IOutput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T08:41:37.822Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
