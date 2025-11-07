@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\c# pro\\InterfacesDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{755898B0-FA48-411F-8056-21F9920C573E}|InterfacesDemo\\InterfacesDemo.csproj|c:\\c# pro\\interfacesdemo\\interfacesdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{755898B0-FA48-411F-8056-21F9920C573E}|InterfacesDemo\\InterfacesDemo.csproj|solutionrelative:interfacesdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{755898B0-FA48-411F-8056-21F9920C573E}|InterfacesDemo\\InterfacesDemo.csproj|c:\\c# pro\\interfacesdemo\\interfacesdemo\\isort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{755898B0-FA48-411F-8056-21F9920C573E}|InterfacesDemo\\InterfacesDemo.csproj|solutionrelative:interfacesdemo\\isort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{755898B0-FA48-411F-8056-21F9920C573E}|InterfacesDemo\\InterfacesDemo.csproj|c:\\c# pro\\interfacesdemo\\interfacesdemo\\ioutput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,12 +15,12 @@
       "RelativeMoniker": "D:0:0:{755898B0-FA48-411F-8056-21F9920C573E}|InterfacesDemo\\InterfacesDemo.csproj|solutionrelative:interfacesdemo\\imath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{755898B0-FA48-411F-8056-21F9920C573E}|InterfacesDemo\\InterfacesDemo.csproj|c:\\c# pro\\interfacesdemo\\interfacesdemo\\isort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{755898B0-FA48-411F-8056-21F9920C573E}|InterfacesDemo\\InterfacesDemo.csproj|solutionrelative:interfacesdemo\\isort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{755898B0-FA48-411F-8056-21F9920C573E}|InterfacesDemo\\InterfacesDemo.csproj|c:\\c# pro\\interfacesdemo\\interfacesdemo\\myarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{755898B0-FA48-411F-8056-21F9920C573E}|InterfacesDemo\\InterfacesDemo.csproj|solutionrelative:interfacesdemo\\myarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{755898B0-FA48-411F-8056-21F9920C573E}|InterfacesDemo\\InterfacesDemo.csproj|c:\\c# pro\\interfacesdemo\\interfacesdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{755898B0-FA48-411F-8056-21F9920C573E}|InterfacesDemo\\InterfacesDemo.csproj|solutionrelative:interfacesdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 206,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +42,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\c# pro\\InterfacesDemo\\InterfacesDemo\\Program.cs",
               "RelativeDocumentMoniker": "InterfacesDemo\\Program.cs",
@@ -55,7 +55,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "ISort.cs",
               "DocumentMoniker": "C:\\c# pro\\InterfacesDemo\\InterfacesDemo\\ISort.cs",
               "RelativeDocumentMoniker": "InterfacesDemo\\ISort.cs",
@@ -68,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "MyArray.cs",
               "DocumentMoniker": "C:\\c# pro\\InterfacesDemo\\InterfacesDemo\\MyArray.cs",
               "RelativeDocumentMoniker": "InterfacesDemo\\MyArray.cs",
